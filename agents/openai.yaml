@@ -1,0 +1,4 @@
+interface:
+  display_name: "阅读与学习伴读"
+  short_description: "忠实原文伴读，按需跨学科理解、练习纠错与确认归档，保留既有学习节奏"
+  default_prompt: "请使用 $reading-learning-companion，按我的材料和当前进度继续伴读，区分原文与扩展，不擅自更改学习安排。"

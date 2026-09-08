@@ -1,0 +1,12 @@
+.env
+.env.*
+*.pdf
+*.epub
+*.docx
+*.mp3
+*.wav
+*.mp4
+__pycache__/
+.venv/
+private/
+local-notes/
